@@ -2,7 +2,7 @@
 
 ```
 npm i
-npm run verdor
+npm run vendor
 npm start
 npm run build
 ```
